@@ -1,0 +1,4 @@
+interface:
+  display_name: "PaperNoteSkill"
+  short_description: "从 PDF 论文生成规范命名的中文 Markdown 阅读笔记"
+  default_prompt: "Use $paper-note to turn this PDF paper into a reading note with ID 0004C."
